@@ -17,4 +17,4 @@ Le concept des gestions de versions peut s'adapter Ã  d'autres types de ressourc
 
 # 
 
-Les gîtes de France sont magnifiques.
+Les gïtes de Francde sont magnifiques
