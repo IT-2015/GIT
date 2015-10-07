@@ -15,4 +15,4 @@ Le système gère les mises à jour des sources pour chaque développeur, conser
 
 Le concept des gestions de versions peut s'adapter à d'autres types de ressources. Les Wikis (tel Wikipédia) sont des exemples de logiciels de gestion de versions agissant sur des champs de base de données et non sur des fichiers.
 
-# 
+#  Mais c'est GENIAL !!!
